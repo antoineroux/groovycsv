@@ -4,7 +4,7 @@ title: Documentation for GroovyCSV
 ---
 # Documentation for GroovyCSV
 
-## Latest
+## Latest Release
 
 * [Readme](https://github.com/xlson/groovycsv/blob/master/README.md)
 * [Javadoc](/docs/latest/javadoc/index.html)
